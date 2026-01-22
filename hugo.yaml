@@ -1,0 +1,7 @@
+baseURL: 'https://mwtaylor.dev/'
+languageCode: 'en-us'
+title: 'Michael Taylor'
+
+module:
+  imports:
+    - path: github.com/ElephantInTheRoom-Michael/HugoTheme-Base
